@@ -1,1 +1,1 @@
-Link to dashboard app: [github.com/lneuendorf/ffcrystalball](https://github.com/lneuendorf/ffcrystalball)
+Link to dashboard code: [github.com/lneuendorf/ffcrystalball](https://github.com/lneuendorf/ffcrystalball)
